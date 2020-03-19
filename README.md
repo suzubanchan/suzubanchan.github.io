@@ -1,2 +1,2 @@
-# suzubanchan.github.io
-Art 74 Website Project Test
+# Michelle Nguyen
+### I am an artist. This is my portfolio site.
